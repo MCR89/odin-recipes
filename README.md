@@ -1,1 +1,1 @@
-# odin-recipes
+A project using html to create a simple website to display recipes.
